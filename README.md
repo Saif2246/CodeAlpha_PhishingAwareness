@@ -29,7 +29,6 @@ This is part of the CodeAlpha Cyber Security Internship.
 - Screenshot (optional)
 
 
-
 ## 🚨 Objective
 To educate users about phishing attacks and improve awareness of online threats.
 
